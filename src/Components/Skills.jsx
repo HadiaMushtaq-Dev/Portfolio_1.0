@@ -17,7 +17,7 @@ function Skills() {
     <div className='skills'>
       <div className='skill'>
         
-<h1>My Tech Stack</h1>
+<h1>Tech Stack</h1>
 <div className="skills1">
 {skills.map(skill => (
 <span key={skill} className='items'>{skill}</span>
