@@ -6,7 +6,7 @@ Welcome to my personal portfolio website, built with **React** and **React Route
 
 ## Live Demo
 
-[View Live Portfolio](https://your-portfolio-link-here.vercel.app/)
+[View Live Portfolio](https://portfolio-1-0-theta.vercel.app/)
 
 ---
 
