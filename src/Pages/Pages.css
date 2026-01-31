@@ -25,6 +25,9 @@
      animation: fadeIn 0.6s ease-in-out;
 
 }
+h1{
+    width: 100%;
+}
 .contact1{
      width: 100%;
   
@@ -93,7 +96,10 @@ padding: 10vh;
     gap: 30px;
     margin-top: 10vh;
 }
-
+.link1{
+    font-size: 1.2rem;
+    color: purple;
+}
 
 .card {
     width: 100%;
@@ -137,7 +143,7 @@ padding: 10vh;
 .contact-info a {
   display: flex;
   align-items: center;
-  gap: 1rem;
+  gap: 1.2rem;
   margin: 2vh 0;
   font-size: 1.3rem;
   color: #e5e7eb;
@@ -152,18 +158,22 @@ padding: 10vh;
 
 
 .contact-info .email {
+    font-size: 1.2rem;
   color: #ea4335; 
 }
 
 .contact-info .linkedin {
+    font-size: 1.2rem;
   color: #0a66c2; 
 }
 
 .contact-info .github {
+    font-size: 1.2rem;
   color: #ffffff; 
 }
 
 .contact-info .phone {
+    font-size: 1.2rem;
   color: #22c55e; 
 }
 
